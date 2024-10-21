@@ -1,10 +1,6 @@
-# salao-login-adm
-atividade da faculdade fazendo um site para um salão
+# Salao telas de Login e Administrador
+Fiz esse projeto para uma atividade em grupo da faculdade fazendo um site para um salão onde fiz uma tela de login com CS, Bootstrap e JavaScrip
 
-
-# Portifólio Bootstrap
-
-fiz esse projeto para a atividade de codificação usando o Bootstrap e o JavaScript fazendo um Portifólio com formulário, espero que gostem.
 
 ## Etiquetas
 
@@ -14,7 +10,10 @@ fiz esse projeto para a atividade de codificação usando o Bootstrap e o JavaSc
 
 ## Demonstração
 
-https://richardfcs.github.io/Portifolio-Bootstrap-JS/
+! Atenção a tela de Administrador apareçe segundos depois de confirmar login !
+
+link do projeto:
+https://richardfcs.github.io/salao-login-adm/
 
 
 # Olá, eu sou Richard! 👋
